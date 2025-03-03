@@ -37,11 +37,6 @@ This project explores **COVID-19 trends** using **SQL** for data analysis and **
 - Identified **countries with highest infections & deaths**  
 - Analyzed **global & continent-wise trends**  
 
-#### 💉 Vaccination Analysis  
-- Tracked **vaccine rollout** over time  
-- Used **CTEs & Window Functions** for cumulative trends  
-- Measured **percentage of vaccinated population**  
-
 ### 🛠 Skills Used  
 ✅ **SQL (MySQL / Snowflake)** – Data extraction, transformation, and aggregation  
 ✅ **Tableau** – Interactive data visualization  
