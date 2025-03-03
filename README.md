@@ -1,4 +1,3 @@
-# Andra's Portfolio  
 
 # [Project 1: Nashville Housing Data Cleaning](https://github.com/andramonalisa/nashville-housing-data-cleaning)  
 
