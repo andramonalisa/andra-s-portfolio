@@ -6,7 +6,7 @@ Welcome to my data analytics portfolio! Here, you'll find projects showcasing my
 
 ## 🏡 Nashville Housing Data Cleaning  
 
-### 🔗 [GitHub Repository](https://github.com/your-github/Nashville-Housing-Cleaning)  
+### 🔗 [GitHub Repository](https://github.com/andramonalisa/nashville-housing-data-cleaning)  
 
 ### 📌 Overview  
 This project focuses on **cleaning and transforming** real estate data from Nashville using **SQL (Snowflake)**. The goal was to turn messy raw data into a structured, analysis-ready dataset.  
@@ -24,7 +24,7 @@ The data cleaning process involved renaming columns for consistency, removing du
 
 ## 📊 COVID-19 Data Exploration & Visualization  
 
-### 🔗 [GitHub Repository](https://github.com/your-github/COVID-Data-Exploration)  
+### 🔗 [GitHub Repository](https://github.com/andramonalisa/-COVID-19-Data-Exploration-Visualization)  
 ### 🔗 [Tableau Dashboard](https://public.tableau.com/app/profile/andra.ignat/viz/CovidDashboard_17407575334040/Dashboard1?publish=yes)  
 
 ### 📌 Overview  
